@@ -1,0 +1,46 @@
+<html>
+<head>
+<title> login_page
+</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<h1 align = "center"> lOGIN PAGE </h1>
+<link rel="stylesheet" type=text/css href="stylelogin.css">
+<form action="action_page.php">
+  <div class="container">
+    <label for="email"><b>E-MAIL ADDRESS</b></label>
+    <input type="email" placeholder="Enter email" name="uname" required><br>
+
+    <label for="psw"><b>PASSWORD&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+  <center><button type="submit">Login</button></centre>
+</br>
+</br>
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
+
+  <div class="container" align="center">
+    <button type="button" class="cancelbtn">Cancel</button>
+   <span class="psw">Forgot <a href="#">password?</a></span>
+  </div>
+&nbsp<label for="3rdparty"><b>    </b></label><center><div class="third-party">
+        <a href="https://www.google.com"><img src="google+.png" alt="Google Signin"></a>
+        <a href="https://www.facebook.com"><img src="facebook.png" alt="Facebook Signin"></a>
+        <a href="https://www.linkedin.com"><img src="linkedin.png" alt="LinkedIn Signin"></a>
+    </div></centre>
+
+
+</div>
+</div>
+</form>
+</body>
+</html>
+

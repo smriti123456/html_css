@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> home page </title>
+</head>
+<body>
+<link rel="stylesheet" type=text/css href="styleHome.css">
+
+<div>
+welcome to qainfotech
+</div>
+<div>
+<img src="qa.jpeg" style="max-width:100%;height:auto;">
+
+
+</div>
+</header>
+<footer>
+  <p>created by smriti Rastogi</p>
+  <p>Contact information: <a href="mailto:smiritirastogi@qainfotech.com"></a>.</p>
+</footer>
+</body>
+</html>
