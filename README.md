@@ -24,3 +24,6 @@
 - cards
 - footer section
 
+# html_css_day_2
+ - use bootstrap to make responsive web pages
+
